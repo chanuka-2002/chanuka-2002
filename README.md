@@ -100,23 +100,25 @@ currently_learning:
 ---
 
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chanuka-2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanuka-2002&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka-2002&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka-2002&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-### 📈 Contribution Activity
+<h3 align="center">📈 Contribution Activity</h3>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chanuka-2002&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanuka-2002&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
 
 ## 🎯 Current Goals
 
