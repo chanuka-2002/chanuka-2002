@@ -113,15 +113,6 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=chanuka-20
 </div>
 
 
-<h3 align="center">📈 Contribution Activity</h3>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanuka-2002&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-
 ## 🎯 Current Goals
 
 - Strengthening backend engineering skills.
