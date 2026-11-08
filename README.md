@@ -100,16 +100,18 @@ currently_learning:
 ---
 
 
-
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanuka-2002&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api?username=chanuka-2002&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka-2002&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=chanuka-2002&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 <h3 align="center">📈 Contribution Activity</h3>
 
