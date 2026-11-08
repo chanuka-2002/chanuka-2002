@@ -16,7 +16,8 @@
 
 ```yaml
 name: Chanuka Bandara
-role: Software Engineering Undergraduate
+role: Information Technology Undergraduate
+faculty : Information Technology
 university: University of Moratuwa, Sri Lanka
 interests:
   - Full-Stack Development
@@ -65,7 +66,7 @@ currently_learning:
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,visualstudio,unity&theme=dark" />
 </p>
 
 ## 🚀 Featured Projects
@@ -80,7 +81,7 @@ currently_learning:
 
 **Technologies:** Java · Spring Boot · Microservices · React · TypeScript
 
-🔗 [View Repository](YOUR_SWIFTDROP_REPOSITORY_URL)
+🔗 [View Repository](https://github.com/Nyxora10/nyxora-swiftdrop)
 
 ---
 
@@ -94,31 +95,18 @@ currently_learning:
 
 **Technologies:** C# · .NET · React · TypeScript · Material UI · SQL Server
 
-🔗 [View Repository](YOUR_UBE_REPOSITORY_URL)
+🔗 [View Repository](https://github.com/orgs/SkyteIT/repositories)
 
 ---
 
-### 03. Restaurant Management System
-
-**A full-stack restaurant management application.**
-
-- Worked on application architecture and customer-side functionality.
-- Implemented restaurant booking, QR-based dine-in, refunds, and loyalty features.
-- Integrated backend APIs, database functionality, and cloud storage.
-
-**Technologies:** Java · Spring Boot · React · Tailwind CSS · MySQL · AWS S3
-
-🔗 [View Repository](YOUR_RESTAURANT_PROJECT_URL)
-
----
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chanuka-2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka-2002&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -126,7 +114,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chanuka-2002&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -142,14 +130,11 @@ currently_learning:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/chanuka-bandara-705465308/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chanuka20023500@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 </div>
